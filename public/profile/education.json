@@ -1,0 +1,15 @@
+{
+    "education":[
+        {
+            "title": "Jun 2021 - Jun 2023",
+            "cardTitle": "Diploma Information Technology Software Developement",
+            "cardSubtitle":"IIE Rosebank College",
+            "cardDetailedText": "Currently completing"
+        },
+        {
+            "title": "Apr 2020",
+            "cardTitle": "Higher Certificate, IT",
+            "cardSubtitle":"Pearson Institute"
+        }
+    ]
+}
